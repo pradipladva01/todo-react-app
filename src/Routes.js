@@ -1,5 +1,5 @@
 import React from "react";
-import { retry } from "./utils/CommonFunctions";
+// import { retry } from "./utils/CommonFunctions";
 import { useRoutes } from "react-router-dom";
 import Home from "./pages/Home";
 
