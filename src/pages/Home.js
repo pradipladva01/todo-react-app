@@ -59,6 +59,7 @@ function App() {
       }}>
         <TextField
           placeholder="Add todo"
+          autoComplete="off"
           fullWidth
           value={newTodo}
           onChange={(e) => setNewTodo(e.target.value)}
